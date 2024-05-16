@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "clean": "rm dist/script.js",
+    "clean": "rm public/script.js",
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
     "serve": "webpack serve"
