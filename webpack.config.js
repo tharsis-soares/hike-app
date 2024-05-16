@@ -18,7 +18,7 @@ const twitter_handle = "@henryegloff";
 const config = {
   entry: './src/index.js',
   output: {
-    path: path.resolve(__dirname, 'public'),
+    path: path.resolve(__dirname, 'dist'),
     filename: 'script.js',
   },
   plugins: [
